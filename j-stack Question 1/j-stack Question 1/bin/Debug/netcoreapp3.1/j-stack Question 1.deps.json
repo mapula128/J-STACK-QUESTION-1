@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "j-stack Question 1/1.0.0": {
+        "runtime": {
+          "j-stack Question 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "j-stack Question 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

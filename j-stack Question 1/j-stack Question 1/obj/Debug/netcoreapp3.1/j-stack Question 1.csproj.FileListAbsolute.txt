@@ -1,0 +1,13 @@
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.csproj.AssemblyReference.cache
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.AssemblyInfoInputs.cache
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.AssemblyInfo.cs
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.csproj.CoreCompileInputs.cache
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\bin\Debug\netcoreapp3.1\j-stack Question 1.exe
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\bin\Debug\netcoreapp3.1\j-stack Question 1.deps.json
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\bin\Debug\netcoreapp3.1\j-stack Question 1.runtimeconfig.json
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\bin\Debug\netcoreapp3.1\j-stack Question 1.runtimeconfig.dev.json
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\bin\Debug\netcoreapp3.1\j-stack Question 1.dll
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\bin\Debug\netcoreapp3.1\j-stack Question 1.pdb
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.dll
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.pdb
+C:\Users\Mapula Hanyane\source\repos\j-stack Question 1\j-stack Question 1\obj\Debug\netcoreapp3.1\j-stack Question 1.genruntimeconfig.cache
